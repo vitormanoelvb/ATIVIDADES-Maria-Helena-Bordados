@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left"> Projeto orientado pelo professor Patrick Vinícius Estevão Oliveira.</h4>
+<h4 align="left"> Orientado pelo professor Patrick Vinícius Estevão Oliveira.</h4>
 
 ###
 
