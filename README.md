@@ -1,4 +1,4 @@
-<h1 align="center">Resolução das Atividades Maria Helena Bordados -     MY SQL</h1>
+<h1 align="center">Resolução das Atividades Maria Helena Bordados - MY SQL</h1>
 
 ## (SQL) - Codiogo Structured Query Language - DDL|DML
 
