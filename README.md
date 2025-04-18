@@ -1,4 +1,4 @@
-# Resolução das Atividades Maria Helena Bordados- MY SQL
+# Resolução das Atividades Maria Helena Bordados - MY SQL
 
 ## (SQL) - Codiogo Structured Query Language - DDL|DML
 
