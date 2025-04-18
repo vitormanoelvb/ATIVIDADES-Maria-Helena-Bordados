@@ -1,6 +1,6 @@
 <h1 align="center">Resolução das Atividades Maria Helena Bordados - MY SQL</h1>
 
-## (SQL) - Codiogo Structured Query Language - DDL|DML
+## (SQL) - Codigo Structured Query Language - DDL|DML
 
 ## (DER) - DIAGRAMA DE ENTIDADE E RELACIONAMENTO
 
